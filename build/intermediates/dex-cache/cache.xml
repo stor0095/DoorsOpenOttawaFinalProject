@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_cc3cbd03ae9d13674bb78d4d103e890767a80726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geemakunstorey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_67430d4a506e116708b88b4c4b7dbc35a12831bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-6.5.87_ac15fec6b4b5ce9189a761aea0b43489d57f71a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-6.5.87_b4212c0ad7ca40e29135ff4c47f2363aad052468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8529ef78d3e2725fa72e76840259114e2dd1e28d">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cefa4af37eaab3da79f4ddf40e99a5644e7cc7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5ccd01baaeaaa19825f948830de628ac655e095b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_66839794799ad06ea2e41153c7e2955c04202b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_61f9e2dc7c621d4b75dd4c38954574af9d222303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4a9f32387e2d9b892aa9afef87f69febf7c43828/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_9d885dd02184ba72deba681b32df0fe84a480cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb932ac6355d785fc3f3a37d231f2996bd875f90">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dff3c3babbc9340d22c25cc5bfc96a8580023400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_8766b3e0979167447c41e5e705f61d9112776ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geemakunstorey/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_b2b60a902273c9b8199191d0bf1ce328ecc70e3a/classes.dex" />
+    </item>
+
+</items>

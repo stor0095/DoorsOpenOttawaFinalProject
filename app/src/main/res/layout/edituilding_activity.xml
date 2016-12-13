@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              tools:context=".EditBuildingActivity"
+              android:id="@+id/editBuilding"
+              android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editAddress"
+        android:hint="Edit Address"
+        android:layout_below="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:layout_marginTop="56dp"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:hint="Edit Description"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:text="Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editAddress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="84dp"
+        android:id="@+id/saveButton"
+        android:onClick="editSaveButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@android:color/holo_blue_dark"/>
+
+    <Button
+        android:text="Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="cancelButton"
+        android:layout_marginTop="24dp"
+        android:id="@+id/cancelButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@color/common_signin_btn_light_text_focused"
+        android:layout_below="@+id/saveButton"
+        android:layout_alignStart="@+id/saveButton"/>
+
+    <Button
+        android:text="Delete Building"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteButton"
+        android:onClick="deleteButton"
+        android:layout_marginBottom="14dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@android:color/holo_red_dark"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

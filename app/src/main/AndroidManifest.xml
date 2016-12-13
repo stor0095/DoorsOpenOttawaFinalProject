@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.algonquincollege.wils0751.doorsopenottawa">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/doorsopen"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDfvAiRZepaWKjoQbctqgyOJh73A4oXdow" />
+        <activity android:name=".DetailActivity">
+            <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+            <uses-permission android:name="android.permission.INTERNET" />
+        </activity>
+        <activity android:name=".NewBuildingActivity"></activity>
+        <activity android:name=".EditBuildingActivity"></activity>
+    </application>
+
+</manifest>

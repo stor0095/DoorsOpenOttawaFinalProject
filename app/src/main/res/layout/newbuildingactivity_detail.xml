@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+                android:id="@+id/newbuildingactivity_detail"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#FFF"
+              tools:context=".NewBuildingActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="45dp"
+        android:id="@+id/nameOfBuilding"
+        android:hint="Name"
+        android:textColor="@android:color/black"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="19dp"
+        android:id="@+id/buildingAddress"
+        android:hint="Address"
+        android:layout_below="@+id/nameOfBuilding"
+        android:layout_alignStart="@+id/nameOfBuilding"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/buildingDescription"
+        android:hint="Description"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/buildingAddress"
+        android:layout_alignStart="@+id/buildingAddress"/>
+
+    <Button
+        android:text="Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buildingSaveButton"
+        android:onClick="saveButton"
+        style="@android:style/Widget.Material.Button.Colored"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_above="@+id/cancelButton"
+        android:layout_alignStart="@+id/buildingDescription"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="26dp"/>
+
+    <ImageView
+        android:id="@+id/img_buildingImageOverlay"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="#6d000000"
+        android:contentDescription="@string/app_name"
+        android:src="@android:drawable/ic_menu_camera"
+        android:layout_below="@+id/buildingDescription"
+        android:layout_alignStart="@+id/buildingSaveButton"
+        android:layout_marginTop="41dp"/>
+
+    <Button
+        android:text="Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cancelButton"
+        android:onClick="backButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@color/common_signin_btn_light_text_focused"
+        android:layout_marginBottom="22dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/buildingSaveButton"/>
+</RelativeLayout>

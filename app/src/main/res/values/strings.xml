@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doors Open Ottawa</string>
+    <string name="get_data">Get data</string>
+    <string name="building_name_placeholder">Building name</string>
+    <string name="action_about">About</string>
+    <string name="author">Geemakun Storey Stor0095</string>
+    <string name="searchTitle">Search</string>
+    <string name="addNewBuilding">Add New Building</string>
+    <string name="editBuilding">Edit Building</string>
+</resources>

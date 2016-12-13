@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/doorsopen.png",
+        "source": "/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/src/main/res/mipmap-xxxhdpi/doorsopen.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Dec 13 13:30:56 EST 2016
+base.0=/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dff3c3babbc9340d22c25cc5bfc96a8580023400
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cefa4af37eaab3da79f4ddf40e99a5644e7cc7b3/classes.dex
+base.1=/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cefa4af37eaab3da79f4ddf40e99a5644e7cc7b3
+file.0=/Applications/MAMP/htdocs/DoorsOpenOttawa-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dff3c3babbc9340d22c25cc5bfc96a8580023400/classes.dex
