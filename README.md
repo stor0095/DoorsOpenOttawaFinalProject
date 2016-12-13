@@ -20,7 +20,8 @@ LOC: 33
 LOC: 20
 
 ## 4: Upload a photo
-### Status: Not working Users can select an image and 'Upload', however, only the filename of the image path is uploaded to the server, not the actual image bit/form data. (I THINK). LOC: 38
+### Status: Not working Users can select an image and 'Upload', however, only the filename of the image path is uploaded to the server, not the actual image bit/form data. (I THINK). 
+LOC: 38
 
 ## 5: Delete a Building
 ### Status: Complete
